@@ -28,7 +28,7 @@ global.CAPTION = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙾𝙿𝙴
 > Ai Bot Password Get From Watching This Video 
 */
 global.AI_PASSWORD = ''
-global.SESSION_ID = ''
+global.SESSION_ID = 'elisa_md@;;;1BEl2Dyb#lOE-fdMDfs0veT5oON8QBLvu6hnaKdwECidUT1aas9w'
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
