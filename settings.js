@@ -6,9 +6,9 @@ const chalk = require('chalk')
 🤖 𝗕𝗢𝗧 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦
 */
 global.OFFLINE = false // if you want put bot offline put true
-global.BOT_PRIVATE = true // if you want use bot privet 
+global.BOT_PRIVATE = false // if you want use bot privet 
 global.AUTO_CHATGPT = false // if you want auto ai bot mod
-global.READ_MESSAGE = false // if you want read message from bot
+global.READ_MESSAGE = true // if you want read message from bot
 global.ONLY_INBOX = false // Only inbox mod ( only pm ) use
 global.ONLY_GROUPS = false // Only Groups Use
 
@@ -17,7 +17,7 @@ global.ONLY_GROUPS = false // Only Groups Use
 🤖 𝗕𝗢𝗧 𝗜𝗡𝗙𝗢 𝗦𝗘𝗧𝗧𝗜𝗡𝗚𝗦
 */
 global.OWNER_NAME = 'Dark Maker Ofc' // Owner Name
-global.OWNER_NUMBER = ['94715166712'] //Owner Number
+global.OWNER_NUMBER = ['923136121880'] //Owner Number
 global.BOT_ADMINS = ['94715166712','94715166712'] //Bot admins numbers Like a Sudo Numbers
 global.BLOCK_CHAT = [] // If you want Block Bot From Chats Use .jid Command and put Jids
 global.IMAGE_QUALITY = 'low' // Available Quality Are => low | mediam | high
@@ -27,8 +27,8 @@ global.CAPTION = '*© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙾𝙿𝙴
 📌⭕ 𝗬𝗢𝗨 𝗠𝗨𝗦𝗧 𝗣𝗥𝗢𝗩𝗜𝗗𝗘 𝗕𝗘𝗙𝗢𝗥𝗘 𝗗𝗘𝗣𝗟𝗢𝗬 𝗕𝗢𝗧 📌⭕
 > Ai Bot Password Get From Watching This Video 
 */
-global.AI_PASSWORD = ''
-global.SESSION_ID = ''
+global.AI_PASSWORD = 'king-nima-gpt-bot'
+global.SESSION_ID = 'elisa_md@;;;1BEl2Dyb#lOE-fdMDfs0veT5oON8QBLvu6hnaKdwECidUT1aas9w'
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
